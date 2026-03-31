@@ -1,5 +1,5 @@
-# 🧙 SPELLCASTR 1.0
-### Network Recon & Traffic Analysis Suite
+![Spellcastr Banner](Static/spellcastr_banner.png)
+
 **By WizardWerks Enterprise Labs**
 
 ---
@@ -23,6 +23,8 @@ Spellcastr is a full-stack cybersecurity tool that combines active **network sca
 
 ![Alerts](Screenshots/Screenshot-Alerts.png)
 *Alert Center — unified threat findings and remediation*
+
+---
 
 ## Features
 
@@ -93,7 +95,6 @@ pip install -r requirements.txt
 
 > ⚠️ **Root/Admin privileges are required for live packet capture.**
 > The scanner also benefits from elevated privileges for OS detection.
-
 ```bash
 # Linux / macOS
 sudo python app.py
@@ -143,7 +144,6 @@ Remediation suggestions are generated automatically based on scan findings.
 ---
 
 ## Project Structure
-
 ```
 spellcastr/
 ├── app.py                  # Flask application & SocketIO event handlers
@@ -152,8 +152,9 @@ spellcastr/
 ├── templates/
 │   └── index.html          # Single-page dashboard UI
 ├── static/
-│   ├── css/                # (reserved for future extracted stylesheets)
-│   └── js/                 # (reserved for future extracted scripts)
+│   ├── spellcastr_banner.png  # Repo banner
+│   ├── css/
+│   └── js/
 └── utils/
     ├── __init__.py
     ├── scanner.py          # Network scanning via python-nmap
