@@ -1,4 +1,4 @@
-# 🧙 Spellcastr
+# 🧙 SPELLCASTR 1.0
 ### Network Recon & Traffic Analysis Suite
 **By WizardWerks Enterprise Labs**
 
