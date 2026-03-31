@@ -177,16 +177,6 @@ This tool is built for:
 
 Always obtain proper authorization before scanning or capturing traffic on any network.
 
----
-
-## Roadmap
-
-- [ ] PDF/JSON scan report export
-- [ ] Scan history saved to SQLite database
-- [ ] Custom alert thresholds via settings panel
-- [ ] CVE lookup via NVD API for detected service versions
-- [ ] Docker container for portable deployment
-- [ ] Dark/light theme toggle
 
 ---
 
