@@ -15,13 +15,13 @@ Spellcastr is a full-stack cybersecurity tool that combines active **network sca
 
 ## Screenshots
 
-![Scanner](screenshots/screenshot-scanner.png)
+![Scanner](Screenshots/screenshot-scanner.png)
 *Network Scanner — host discovery with risk assessment*
 
-![Packets](screenshots/screenshot-packets.png)
+![Packets](Screenshots/screenshot-packets.png)
 *Packet Analyzer — live traffic capture and protocol breakdown*
 
-![Alerts](screenshots/screenshot-alerts.png)
+![Alerts](Screenshots/screenshot-alert.png)
 *Alert Center — unified threat findings and remediation*
 
 ## Features
