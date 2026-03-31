@@ -195,4 +195,4 @@ MIT License — see `LICENSE` for details.
 
 ---
 
-*Built with 🧙 and Python by WizardWerks Enterprise Labs*
+*Built by WizardWerks Enterprise Labs*
